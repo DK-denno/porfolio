@@ -5,11 +5,12 @@ border:0;
 background-attachment: fixed;
 }
 #me{
-  float: left;
-  padding: 0;
-  margin: 0;
-  height: auto;
-  width: auto;
+  background-color: white;
+  float: none;
+  padding: 25px;
+  margin: 25px;
+  border:25px;
+  width: 1170px;
 }
 a:visited {
     color: green;
