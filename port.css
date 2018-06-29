@@ -16,3 +16,7 @@ background-attachment: fixed;
 a:hover {
     color: red;
 }
+#img{
+  margin-left: 300px;
+  align: center;
+}
