@@ -12,14 +12,7 @@ background-attachment: fixed;
   border:25px;
   width: 1170px;
 }
-a:visited {
-    color: green;
-}
 
 a:hover {
     color: red;
-}
-
-a:active {
-    color: blue;
 }
