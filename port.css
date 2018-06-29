@@ -4,3 +4,21 @@ background-repeat:repeat-x,-y;
 border:0;
 background-attachment: fixed;
 }
+#me{
+  float: left;
+  padding: 0;
+  margin: 0;
+  height: auto;
+  width: auto;
+}
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: blue;
+}
