@@ -20,3 +20,9 @@ a:hover {
   margin-left: 300px;
   align: center;
 }
+@@media query and(min-width;500px) {
+  #img{margin-left:150;
+      align:center;
+    }
+
+}
