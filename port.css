@@ -5,12 +5,12 @@ border:0;
 background-attachment: fixed;
 }
 #me{
-  background-color: white;
+  background-color: e;
   float: none;
-  padding: 25px;
-  margin: 25px;
-  border:25px;
-  width: 1170px;
+  padding: auto;
+  margin: auto;
+  border:auto;
+  width: auto;
 }
 
 a:hover {
