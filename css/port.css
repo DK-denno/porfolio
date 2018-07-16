@@ -15,13 +15,13 @@ background-attachment: fixed;
 
 a:hover {
     color: red;
-    
+
 }
 a;active{
         color:blue
 }
 #img{
-  margin-left: 300px;
+  margin-left: 250px;
   align: center;
 }
 @@media query and(min-width;500px) {
